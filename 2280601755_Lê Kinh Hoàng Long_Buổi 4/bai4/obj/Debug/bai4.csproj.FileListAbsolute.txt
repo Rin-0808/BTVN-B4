@@ -1,0 +1,11 @@
+C:\Users\ADMIN HD\Source\Repos\2280602215_QuangMinhNhat_baiBuoi4\bai4\bin\Debug\bai4.exe.config
+C:\Users\ADMIN HD\Source\Repos\2280602215_QuangMinhNhat_baiBuoi4\bai4\bin\Debug\bai4.exe
+C:\Users\ADMIN HD\Source\Repos\2280602215_QuangMinhNhat_baiBuoi4\bai4\bin\Debug\bai4.pdb
+C:\Users\ADMIN HD\Source\Repos\2280602215_QuangMinhNhat_baiBuoi4\bai4\obj\Debug\bai4.csproj.AssemblyReference.cache
+C:\Users\ADMIN HD\Source\Repos\2280602215_QuangMinhNhat_baiBuoi4\bai4\obj\Debug\bai4.form2.resources
+C:\Users\ADMIN HD\Source\Repos\2280602215_QuangMinhNhat_baiBuoi4\bai4\obj\Debug\bai4.form1.resources
+C:\Users\ADMIN HD\Source\Repos\2280602215_QuangMinhNhat_baiBuoi4\bai4\obj\Debug\bai4.Properties.Resources.resources
+C:\Users\ADMIN HD\Source\Repos\2280602215_QuangMinhNhat_baiBuoi4\bai4\obj\Debug\bai4.csproj.GenerateResource.cache
+C:\Users\ADMIN HD\Source\Repos\2280602215_QuangMinhNhat_baiBuoi4\bai4\obj\Debug\bai4.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN HD\Source\Repos\2280602215_QuangMinhNhat_baiBuoi4\bai4\obj\Debug\bai4.exe
+C:\Users\ADMIN HD\Source\Repos\2280602215_QuangMinhNhat_baiBuoi4\bai4\obj\Debug\bai4.pdb
